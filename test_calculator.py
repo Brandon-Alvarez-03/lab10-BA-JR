@@ -33,9 +33,9 @@ class TestCalculator(unittest.TestCase):
     ######## Partner 1
     # Partner 1 responsibilities
     def test_multiply(self):
-        self.assertEqual(mult(2, 3), 6)
-        self.assertEqual(mult(-2, 3), -6)
-        self.assertEqual(mult(0, 5), 0)
+        self.assertEqual(mul(2, 3), 6)
+        self.assertEqual(mul(-2, 3), -6)
+        self.assertEqual(mul(0, 5), 0)
 
     def test_divide(self):
         self.assertEqual(div(2, 10), 5)
