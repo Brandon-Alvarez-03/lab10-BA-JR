@@ -32,10 +32,10 @@ def add(a, b):
 def subtract(a, b):
     return a - b
 
-def multiply(a, b):
+def mult(a, b):
     return a * b
 
-def divide(a, b):
+def div(a, b):
     if a == 0:
         raise ZeroDivisionError("Cannot divide by zero")
     return b / a
@@ -45,7 +45,7 @@ def logarithm(a, b):
         raise ValueError("Invalid arguments for logarithm")
     return math.log(b, a)
 
-def exponent(a, b):
+def exp(a, b):
     return a ** b
 
 
