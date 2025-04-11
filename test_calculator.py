@@ -1,3 +1,21 @@
+"""
+Brandon Alvarez Repo - Partner 1 - https://github.com/Brandon-Alvarez-03/lab10-BA-JR
+BAlvarez Github Link and UF Email: https://github.com/Brandon-Alvarez-03
+brandon.alvarez@ufl.edu
+
+Jonathan Reyes Repo - Partner 2
+JReyes Github Link and UF Email: jreyes2@ufl.edu, https://github.com/nahtanoJ-dot-exe
+
+
+test_calculator.py
+- Unit tests for calculator.py
+"""
+
+# https://github.com/Brandon-Alvarez-03/lab10-BA-JR
+# Partner 1: Brandon Andrew Alvarez
+# Partner 2: Jonathan Reyes
+
+
 import unittest
 from calculator import *
 
